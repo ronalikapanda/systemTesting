@@ -1,0 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+
+// @import "./asset/scss/style.scss";
+
+/*---------------------------------------------- 
+                COMPONENTS
+----------------------------------------------*/
+@import "./asset/scss/components/preloader.scss";
+.checkloader {
+    width: 100%;
+    display: flex;
+    gap: 5px;
+}
